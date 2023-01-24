@@ -1,5 +1,8 @@
+<h4>Project grade: 17,3/20</h4>
+<h4>Remember that copying this project to make yours, might get you caught by a coyright test.</h4>
+
 <h1>LDTS_0602 - Minesweeper</h1>
-  Minesweeper is single-player logic-based computer game played on a rectangular board whose object is to locate a predetermined
+Minesweeper is single-player logic-based computer game played on a rectangular board whose object is to locate a predetermined
 number of randomly-placed bombs in the shortest possible time by clicking on the safe cells, while avoiding the cells with bombs.
 If the player clicks on a bomb, the player loses and the game ends. On the other hand, if the player clicks on a cell 
 containing a number between one and eight, or an empty cell, the cell is displayed, and that identifies the total number of bombs
