@@ -1,8 +1,7 @@
-## LDTS_0602 - Minesweeper
-
 <h3>Project grade: 17,3/20</h3>
 <h3>Remember that copying this project to make yours, might get you caught by a coyright test.</h3>
 
+## LDTS_0602 - Minesweeper
 
 <h3> Warning! </h3> 
 This is only the simplified version of README.md file, the complete version is in the docs directory.
